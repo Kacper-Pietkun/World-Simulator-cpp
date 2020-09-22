@@ -43,7 +43,7 @@ University project. Simulator of the world (animals and plants)
  - Each organism occupy only one field
  - World is two-dimensional (height and width is defined by user input)
  - Human is controlled by user with arrow keys
- - User can activate human's special ability with 'a' button
+ - User can activate human's special ability (with 'a' button)
  - Game can be saved to file (with 's' button) and loaded (with 'l' button)
  - Detailed report of every event is printed to the console after every round
  - Plants can propagate
